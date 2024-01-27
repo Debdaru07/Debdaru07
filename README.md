@@ -1,10 +1,29 @@
-- 👋 Hi, I’m Debdaru Dasgupta 
-- 👀 I’m interested in Sports, Coding ,Gaming ...
-- 🌱 I’m currently learning C# ...
-- 💞️ I’m looking forward to collaborate on web developement and mobile app developement ...
-- 📫 How to reach me Whatsapp no : 8787588495 ...
+# README #
 
-<!---
-Debdaru07/Debdaru07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This README would normally document whatever steps are necessary to get your application up and running.
+
+### What is this repository for? ###
+
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
